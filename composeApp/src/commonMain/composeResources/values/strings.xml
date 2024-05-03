@@ -1,0 +1,8 @@
+<resources>
+    <string name="cyclone">Cyclone</string>
+    <string name="home_route">Home</string>
+    <string name="back_button">Back</string>
+    <string name="run">Run</string>
+    <string name="stop">Stop</string>
+    <string name="theme">Theme</string>
+</resources>
